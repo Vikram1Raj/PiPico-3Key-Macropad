@@ -32,4 +32,5 @@ This project is interfaced with a [Raspberry Pi Pico](https://www.raspberrypi.co
 ![Front View](Keypad_3D_View/3Keypad%20Front.png)
 
 
-
+### Future Changes(ETA : Dunno):
+* Make a 3d Printed Case for the PCB
