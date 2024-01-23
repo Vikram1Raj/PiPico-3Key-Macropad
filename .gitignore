@@ -1,0 +1,12 @@
+#backup Files
+3 Keypad-backups/
+
+#pycache
+__pycache__/
+
+#prl Files
+3 Keypad.kicad_prl
+
+#cache
+fp-info-cache
+
