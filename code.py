@@ -1,8 +1,6 @@
 print("Starting")
 
 import board
-import storage
-import usb_hid
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
