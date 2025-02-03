@@ -2,7 +2,7 @@
 
 A 3-Key Macropad with an EC-11 rotary encoder.(**Case Not Included**)
 
-This project is interfaced with a [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) along with [CircuitPython](https://circuitpython.org/) and [KMK Firmware](http://kmkfw.io/)
+This project is interfaced with a [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) along with [CircuitPython](https://circuitpython.org/) and [KMK Firmware](https://github.com/KMKfw/kmk_firmware)
 
 ### Components:
 1. Raspberry Pi Pico - 1
